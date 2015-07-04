@@ -112,6 +112,8 @@ body{background-color:rgb(255, 255, 255);font:300 2.125em/1.38 aktiv-grotesk;col
 
 .text-7,.text-9{font-size:1.882em;line-height:1.38;}
 
+.text a{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:inherit;font-style:inherit;font-size:inherit;font-weight:inherit;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+
 @media(max-width: 1440px) {
 body{font-size:1.563em;}
 
@@ -129,7 +131,7 @@ body{font-size:1.563em;}
 
 .nav .image{width:127px;height:auto;margin-left:0.84961%;}
 
-.nav .text{margin-top:9px;margin-right:0.95104%;font-size:0.64em;}
+.nav .text{margin-top:9px;margin-right:0.95052%;font-size:0.64em;}
 
 .section-1{position:relative;z-index:35;height:913px;}
 
@@ -197,9 +199,9 @@ body{font-size:1.563em;}
 
 .section-3 .image-4{z-index:19;margin-left:5.61415%;}
 
-.section-3 .image-5{visibility:hidden;z-index:20;margin-top:-877px;margin-left:19.00174%;}
+.section-3 .image-5{visibility:hidden;clear:both;z-index:20;margin-top:-877px;margin-left:19.00174%;}
 
-.section-3 .image-6{float:left;clear:none;z-index:21;margin-top:-1192px;margin-right:0;margin-left:46.05577%;}
+.section-3 .image-6{float:left;z-index:21;margin-top:-1192px;margin-right:0;margin-left:46.05577%;}
 
 .section-5 .container-4{position:relative;z-index:10;height:621px;margin-top:-848px;}
 
@@ -287,9 +289,9 @@ body{font-size:1.375em;}
 
 .section-3 .image-4{display:none;z-index:19;margin-top:-591px;margin-left:5.95831%;}
 
-.section-3 .image-5{display:none;z-index:20;margin-top:-558px;margin-left:29.34851%;}
+.section-3 .image-5{display:none;clear:none;z-index:20;margin-top:-558px;margin-left:29.34851%;}
 
-.section-3 .image-6{z-index:21;width:73.7638748738%;margin-top:-620px;margin-left:12.67186%;}
+.section-3 .image-6{clear:none;z-index:21;width:73.7638748738%;margin-top:-620px;margin-left:12.67186%;}
 
 .section-4 .container-2{height:524px;}
 
@@ -309,7 +311,7 @@ body{font-size:1.375em;}
 
 .footer .element{position:relative;z-index:43;height:41px;margin-top:34px;}
 
-.hero-copy .text{float:left;clear:both;width:99.5918367346%;margin-right:0;margin-left:0.1976999999%;}
+.hero-copy .text{float:left;clear:both;width:99.5918367346%;margin-right:0;margin-left:0.19133%;}
 
 .nav{position:relative;z-index:38;}
 
