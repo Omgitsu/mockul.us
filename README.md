@@ -3,4 +3,5 @@
 </p>
 
 # [mockul.us](http://mockul.us)
-GitHub pages site. switch branch to gh-pages to view the site source
+This is the GitHub pages site. Switch branch to gh-pages to view the site source
+Head over to the [Mockulus project homepage](https://www.github.com/Omgitsu/Mockulus) for the project source.
