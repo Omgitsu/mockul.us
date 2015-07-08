@@ -1,0 +1,48 @@
+.whoa {
+  opacity: 0;
+  -webkit-transition: opacity .6s .1s, transform .6s ease;
+  transition: opacity .6s .1s, transform .6s ease;
+}
+.whoa.whoa-right {
+  -webkit-transform: translate(-50px, 0);
+  -moz-transform: translate(-50px, 0);
+  -ms-transform: translate(-50px, 0);
+  transform: translate(-50px, 0);
+}
+.whoa.whoa-left {
+  -webkit-transform: translate(50px, 0);
+  -moz-transform: translate(50px, 0);
+  -ms-transform: translate(50px, 0);
+  transform: translate(50px, 0);
+}
+.whoa.whoa-up {
+  -webkit-transform: translate(0, 50px);
+  -moz-transform: translate(0, 50px);
+  -ms-transform: translate(0, 50px);
+  transform: translate(0, 50px);
+}
+.whoa.whoa-down {
+  -webkit-transform: translate(0, -50px);
+  -moz-transform: translate(0, -50px);
+  -ms-transform: translate(0, -50px);
+  transform: translate(0, -50px);
+}
+.whoa.whoa-in-view {
+  opacity: 1 !important;
+  -webkit-transform: translate(0,0) !important;
+  -moz-transform: translate(0,0) !important;
+  -ms-transform: translate(0,0) !important;
+  transform: translate(0,0) !important;
+}
+
+@media screen and (max-width: 750px) {
+  .whoa, .whoa.whoa-up, .whoa.whoa-down, .whoa.whoa-left, .whoa.whoa-right{
+    transition: none;
+    transition-delay: 0s;
+    opacity: 1;
+    -webkit-transform: translate(0, 0);
+    -moz-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    transform: translate(0, 0);
+  }
+}

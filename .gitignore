@@ -2,3 +2,4 @@
 development/
 *.mcw
 mockulus/
+tests/
