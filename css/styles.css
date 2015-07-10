@@ -30,7 +30,7 @@ body{background-color:rgb(255, 255, 255);font:300 2.125em/1.38 aktiv-grotesk;col
 
 .hero-copy .image{display:none;width:40.4166666666%;min-width:100px;margin:25px auto 0;}
 
-.hero-logo-copy{width:87.5%;margin:0 auto;padding:13px;font-size:0.559em;line-height:1.38;text-align:center;color:rgb(0, 0, 0);}
+.hero-logo-copy{width:87.5%;margin:0 auto;padding:13px;font-size:0.559em;font-weight:400;line-height:1.38;text-align:center;color:rgb(0, 0, 0);}
 
 .hero-logo-image{display:block;width:87.5%;height:auto;margin:0 auto;overflow:hidden;}
 
@@ -105,17 +105,31 @@ body{background-color:rgb(255, 255, 255);font:300 2.125em/1.38 aktiv-grotesk;col
 .footer-copyright a{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:inherit;font-style:inherit;font-size:inherit;font-weight:inherit;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
 
 @media(max-width: 1701px) {
-.container .footer-app-store-button,.container .footer-logo,.hero-copy .hero-logo-image,.hero-copy .image,.nav .image{height:auto;}
+.container .footer-app-store-button{float:left;clear:both;height:auto;margin-top:-59px;margin-right:0;margin-left:51.73427%;}
 
-.container .footer-copyright{position:relative;z-index:44;}
+.container .footer-coming-store-info{position:relative;z-index:42;margin-left:16.00107%;}
 
-.container .footer-copyright-bg{position:relative;z-index:43;}
+.container .footer-copyright{position:relative;z-index:44;margin-left:22.79909%;}
+
+.container .footer-copyright-bg{position:relative;z-index:43;margin-top:79px;}
+
+.container .footer-logo{height:auto;margin-top:89px;}
 
 .container .hero-copy{position:relative;z-index:33;margin-top:269px;}
 
-.container .hero-splash{position:relative;z-index:29;margin-top:-601px;}
+.container .hero-splash{position:relative;z-index:29;margin-top:-559px;}
 
-.section-1{height:992px;}
+.container .section-4-image{width:56.0258671369%;height:926px;margin-left:1.12709%;}
+
+.container .section-4-splash{position:relative;z-index:15;}
+
+.hero-copy .hero-logo-copy{font-size:0.471em;}
+
+.hero-copy .hero-logo-image,.hero-copy .image,.nav .image{height:auto;}
+
+.nav{position:relative;z-index:38;}
+
+.section-1{position:relative;z-index:35;height:992px;}
 
 .section-1 .container{position:relative;z-index:34;width:95.1793062904%;height:1019px;margin-top:-1189px;}
 
@@ -129,19 +143,31 @@ body{background-color:rgb(255, 255, 255);font:300 2.125em/1.38 aktiv-grotesk;col
 
 .section-2 .section-2-splash{position:relative;z-index:24;}
 
-.section-3 .section-3-background{position:relative;z-index:18;}
+.section-3{height:922px;}
 
-.section-3 .section-3-firefox{position:relative;z-index:20;height:auto;}
+.section-3 .section-3-background{position:relative;z-index:18;margin-left:-7.89885%;}
 
-.section-3 .section-3-header{position:relative;z-index:22;}
+.section-3 .section-3-firefox{position:relative;z-index:20;height:auto;margin-left:29.34763%;}
 
-.section-3 .section-3-interface-image{position:relative;z-index:21;height:auto;}
+.section-3 .section-3-header{position:relative;z-index:22;margin-left:9.9978%;font-size:1.706em;}
 
-.section-3 .section-3-safari{position:relative;z-index:19;height:auto;}
+.section-3 .section-3-interface-image{position:relative;z-index:21;height:auto;margin-right:3.6642%;}
+
+.section-3 .section-3-safari{position:relative;z-index:19;height:auto;margin-left:5.61343%;}
+
+.section-4{height:872px;}
+
+.section-5{height:1036px;}
 
 .section-5 .element{position:relative;z-index:5;}
 
-.section-6{margin-top:0;}
+.section-6{margin-top:79px;}
+
+.container .container-3{position:relative;clear:none;z-index:14;width:44.2092886537%;margin-top:239px;margin-right:2.28818%;}
+
+.container .container-5{margin-left:5.29744%;}
+
+.section-4 .container-2{height:524px;}
 
 .section-5 .container-4{position:relative;z-index:10;}
 }
@@ -149,15 +175,15 @@ body{background-color:rgb(255, 255, 255);font:300 2.125em/1.38 aktiv-grotesk;col
 @media(max-width: 1440px) {
 body{font-size:1.563em;}
 
-.container .footer-app-store-button{position:relative;float:left;clear:both;z-index:39;height:auto;margin-top:10px;margin-right:0;margin-left:41.66667%;}
+.container .footer-app-store-button{position:relative;z-index:39;height:auto;margin-top:10px;margin-left:41.66667%;}
 
-.container .footer-coming-store-info{margin-left:15.99935%;font-size:0.72em;}
+.container .footer-coming-store-info{position:relative;z-index:42;margin-left:15.99935%;font-size:0.72em;}
 
 .container .footer-copyright{position:relative;z-index:44;margin-left:22.79948%;font-size:0.48em;}
 
 .container .footer-copyright-bg{position:relative;z-index:43;margin-top:22px;}
 
-.container .footer-logo{width:132px;height:auto;}
+.container .footer-logo{width:132px;height:auto;margin-top:30px;}
 
 .container .footer-tagline{font-size:2.04em;}
 
@@ -169,7 +195,7 @@ body{font-size:1.563em;}
 
 .container .section-4-image{width:56.8055555555%;height:808px;margin-left:0;}
 
-.container .section-4-splash{width:54.6922300706%;height:528px;}
+.container .section-4-splash{position:relative;z-index:15;width:54.6922300706%;height:528px;}
 
 .container .section-5-copy{width:112.5691699604%;font-size:25px;}
 
@@ -183,13 +209,13 @@ body{font-size:1.563em;}
 
 .hero-copy .image{min-width:140px;height:auto;margin-top:-16px;}
 
-.nav{height:40px;}
+.nav{position:relative;z-index:38;height:40px;}
 
 .nav .image{width:127px;height:auto;margin-left:0.84961%;}
 
 .nav .text{display:none;margin-top:9px;margin-right:0.94944%;font-size:0.64em;}
 
-.section-1{height:831px;}
+.section-1{position:relative;z-index:35;height:831px;}
 
 .section-1 .container{position:relative;z-index:34;width:95.2083333333%;height:907px;margin-top:-913px;}
 
@@ -207,9 +233,9 @@ body{font-size:1.563em;}
 
 .section-3 .section-3-background{position:relative;z-index:18;margin-left:-7.89931%;}
 
-.section-3 .section-3-firefox{visibility:hidden;position:relative;clear:both;z-index:20;height:auto;margin-top:-877px;margin-left:19.00174%;}
+.section-3 .section-3-firefox{visibility:hidden;position:relative;z-index:20;height:auto;margin-top:-877px;margin-left:19.00174%;}
 
-.section-3 .section-3-header{position:relative;z-index:22;font-size:2.32em;}
+.section-3 .section-3-header{position:relative;z-index:22;margin-left:10%;font-size:2.32em;}
 
 .section-3 .section-3-interface-image{position:relative;float:left;z-index:21;height:auto;margin-top:-1192px;margin-right:0;margin-left:46.05577%;}
 
@@ -225,7 +251,7 @@ body{font-size:1.563em;}
 
 .section-5 .section-4-copy{font-size:25px;}
 
-.section-6{height:768px;}
+.section-6{height:768px;margin-top:0;}
 
 .section-6 .container{margin-top:219px;margin-left:3.2997%;}
 
@@ -233,7 +259,7 @@ body{font-size:1.563em;}
 
 .section-6 .section-5-image{width:53.5822401614%;height:500px;margin-top:151px;margin-left:2.41645%;}
 
-.container .container-3{clear:none;margin-top:224px;margin-right:1.52344%;}
+.container .container-3{position:relative;clear:both;z-index:14;width:41.1705348133%;margin-top:-451px;margin-right:-0.20725%;}
 
 .container .container-5{margin-top:198px;margin-left:5.64345%;}
 
@@ -247,7 +273,7 @@ body{font-size:1.375em;}
 
 .container .footer-app-store-button{position:relative;z-index:39;height:auto;margin-top:4px;margin-left:37.89102%;}
 
-.container .footer-coming-store-info{margin-left:15.99868%;font-size:0.682em;}
+.container .footer-coming-store-info{position:relative;z-index:42;margin-left:15.99868%;font-size:0.682em;}
 
 .container .footer-copyright{position:relative;z-index:44;margin-top:-32px;margin-left:22.79894%;font-size:0.636em;}
 
@@ -265,7 +291,7 @@ body{font-size:1.375em;}
 
 .container .section-4-image{width:56.8113017154%;height:582px;margin-left:0.78835%;}
 
-.container .section-4-splash{margin-top:0;background-size:contain;background-position:center center;}
+.container .section-4-splash{position:relative;z-index:15;margin-top:0;background-size:contain;background-position:center center;}
 
 .container .section-5-copy{width:112.2529644268%;margin-left:-6.27964%;font-size:22px;}
 
@@ -275,15 +301,17 @@ body{font-size:1.375em;}
 
 .footer .container{margin-top:38px;}
 
-.hero-copy .hero-logo-copy{font-size:0.818em;}
+.hero-copy .hero-logo-copy{font-size:0.636em;}
 
 .hero-copy .image{height:auto;margin-top:-20px;}
+
+.nav{position:relative;z-index:38;}
 
 .nav .image{height:auto;margin-top:12px;margin-left:1.25032%;}
 
 .nav .text{margin-top:10px;margin-right:0.94917%;font-size:0.545em;}
 
-.section-1{height:602px;}
+.section-1{position:relative;z-index:35;height:602px;}
 
 .section-1 .container{position:relative;z-index:34;width:95.2573158425%;height:773px;margin-top:-749px;margin-right:0.00158%;}
 
@@ -301,7 +329,7 @@ body{font-size:1.375em;}
 
 .section-3 .section-3-background{position:relative;z-index:18;width:141.2714429868%;height:789px;margin-left:-7.87084%;}
 
-.section-3 .section-3-firefox{display:none;position:relative;clear:none;z-index:20;height:auto;margin-top:-558px;margin-left:29.34851%;}
+.section-3 .section-3-firefox{display:none;position:relative;z-index:20;height:auto;margin-top:-558px;margin-left:29.34851%;}
 
 .section-3 .section-3-header{position:relative;z-index:22;margin-top:-740px;margin-left:9.99937%;font-size:1.818em;}
 
@@ -327,67 +355,65 @@ body{font-size:1.375em;}
 
 .section-6 .section-5-image{margin-top:34px;margin-left:2.41707%;}
 
-.container .container-3{margin-top:74px;margin-right:2.83174%;}
+.container .container-3{position:relative;clear:none;z-index:14;margin-top:103px;margin-right:2.82543%;}
 
 .container .container-5{margin-top:159px;margin-left:4.8499%;}
 
 .section-2-1{height:753px;}
 
-.section-4 .container-2{height:524px;}
-
 .section-5 .container-4{position:relative;z-index:10;height:422px;margin-top:-623px;}
 }
 
 @media(max-width: 770px) {
-body{font-size:0.938em;}
-
 .container .footer-app-store-button{position:relative;z-index:39;width:140px;height:auto;margin-top:0;margin-left:40.90909%;}
 
-.container .footer-coming-store-info{width:79.9217731421%;margin-left:9.9858%;font-size:1em;}
+.container .footer-coming-store-info{position:relative;z-index:42;width:79.9217731421%;margin-left:9.9858%;}
 
-.container .footer-copyright{position:relative;z-index:44;margin-top:-28px;margin-left:22.7983%;font-size:0.8em;}
+.container .footer-copyright{position:relative;z-index:44;margin-top:-28px;margin-left:22.7983%;font-size:0.545em;}
 
 .container .footer-copyright-bg{position:relative;z-index:43;height:41px;margin-top:68px;}
 
 .container .footer-logo{width:104px;height:auto;}
 
-.container .footer-tagline{margin-left:9.9858%;font-size:1.867em;}
+.container .footer-tagline{margin-left:9.9858%;font-size:1.273em;}
 
 .container .hero-copy{position:relative;z-index:33;width:31.9426336375%;margin-top:89px;margin-left:2.05763%;}
 
-.container .hero-splash{position:relative;clear:both;z-index:29;margin-top:-351px;margin-right:0.00609%;}
+.container .hero-splash{position:relative;clear:both;z-index:29;margin-top:-339px;margin-right:0.00609%;}
 
-.container .section-4-header{font-size:2.133em;}
+.container .section-4-header{font-size:1.455em;}
 
 .container .section-4-image{width:56.7532467532%;height:462px;margin-left:0.73255%;}
 
-.container .section-4-splash{margin-top:-20px;}
+.container .section-4-splash{position:relative;z-index:15;margin-top:-20px;}
 
-.container .section-5-copy{margin-left:-6.17748%;font-size:15px;}
+.container .section-5-copy{margin-left:-6.17748%;font-size:0.682em;}
 
-.container .section-5-header{font-size:2.133em;}
+.container .section-5-header{font-size:1.455em;}
 
 .footer .container{margin-top:0;}
 
-.hero-copy .hero-logo-copy{float:left;clear:both;width:99.5918367346%;margin-right:0;margin-left:0.19059%;font-size:1.067em;}
+.hero-copy .hero-logo-copy{float:left;clear:both;width:99.5918367346%;margin-right:0;margin-left:0.19059%;}
 
 .hero-copy .hero-logo-image{float:left;height:auto;margin-right:0;margin-left:6.24484%;}
 
 .hero-copy .image{min-width:80px;height:auto;margin-top:270px;}
 
+.nav{position:relative;z-index:38;}
+
 .nav .image{height:auto;margin-left:1.25%;}
 
-.nav .text{margin-right:0.94765%;font-size:0.8em;}
+.nav .text{margin-right:0.94765%;}
 
-.section-1{height:438px;}
+.section-1{position:relative;z-index:35;height:438px;}
 
 .section-1 .container{position:relative;z-index:34;width:100%;height:588px;margin-top:-602px;margin-right:0;}
 
 .section-1 .hero-backdrop{position:relative;z-index:28;}
 
-.section-2 .copy{z-index:25;margin-top:-255px;font-size:1.067em;}
+.section-2 .copy{z-index:25;margin-top:-255px;font-size:0.727em;}
 
-.section-2 .header{z-index:26;margin-top:-678px;font-size:2.133em;}
+.section-2 .header{z-index:26;margin-top:-678px;font-size:1.455em;}
 
 .section-2 .section-2{position:relative;margin-left:10%;}
 
@@ -399,21 +425,21 @@ body{font-size:0.938em;}
 
 .section-3 .section-3-firefox{display:block;position:relative;z-index:20;height:auto;margin-top:-1828px;margin-left:0;}
 
-.section-3 .section-3-header{position:relative;z-index:22;margin-left:9.99797%;font-size:2.133em;}
+.section-3 .section-3-header{position:relative;z-index:22;margin-left:9.98985%;font-size:1.455em;}
 
-.section-3 .section-3-interface-image{position:relative;z-index:21;height:auto;margin-top:-640px;margin-left:12.67045%;}
+.section-3 .section-3-interface-image{position:relative;z-index:21;height:auto;margin-top:-640px;margin-left:12.66843%;}
 
 .section-3 .section-3-safari{display:block;visibility:hidden;position:relative;z-index:19;height:auto;margin-top:-1828px;margin-left:0;}
 
 .section-4{height:482px;}
 
-.section-4 .section-4-copy{width:106.5969954278%;margin-left:0.64772%;font-size:1em;}
+.section-4 .section-4-copy{width:106.5969954278%;margin-left:0.64772%;}
 
 .section-5{height:497px;}
 
 .section-5 .element{position:relative;z-index:5;}
 
-.section-5 .section-4-copy{font-size:15px;}
+.section-5 .section-4-copy{font-size:0.682em;}
 
 .section-6{height:413px;}
 
@@ -423,7 +449,7 @@ body{font-size:0.938em;}
 
 .section-6 .section-5-image{width:53.6363636363%;height:413px;margin-top:0;margin-left:2.45942%;}
 
-.container .container-3{margin-top:77px;margin-right:2.83279%;}
+.container .container-3{position:relative;z-index:14;margin-top:96px;margin-right:2.82873%;}
 
 .container .container-5{width:37.5324675324%;height:335px;margin-top:130px;margin-left:4.93304%;}
 
@@ -437,7 +463,7 @@ body{font-size:0.813em;}
 
 .container .footer-app-store-button{position:relative;z-index:39;width:149px;height:auto;margin-left:34.44676%;}
 
-.container .footer-coming-store-info{margin-top:7px;margin-left:9.99152%;font-size:13px;}
+.container .footer-coming-store-info{position:relative;z-index:42;margin-top:7px;margin-left:9.99152%;font-size:1em;}
 
 .container .footer-copyright{position:relative;z-index:44;width:79.9582463465%;margin-top:-25px;margin-left:10.02088%;font-size:0.769em;}
 
@@ -447,19 +473,19 @@ body{font-size:0.813em;}
 
 .container .footer-tagline{margin-left:9.99152%;font-size:1.692em;}
 
-.container .hero-copy{position:relative;z-index:33;width:79.9582463465%;margin-top:366px;margin-left:9.99152%;}
+.container .hero-copy{position:relative;z-index:33;width:79.9582463465%;margin-top:359px;margin-left:9.99804%;}
 
-.container .hero-splash{position:relative;float:left;z-index:29;width:92.9018789144%;height:359px;margin-top:-652px;margin-right:0;margin-left:7.09486%;}
+.container .hero-splash{position:relative;float:left;z-index:29;width:92.9018789144%;height:359px;margin-top:-628px;margin-right:0;margin-left:7.09486%;}
 
-.container .section-4-copy{font-size:13px;}
+.container .section-4-copy{font-size:1em;}
 
 .container .section-4-header{width:111.3372093023%;margin-left:-5.80487%;font-size:2.154em;}
 
-.container .section-4-image{clear:both;width:79.9582463465%;height:365px;margin-top:-711px;margin-left:10%;}
+.container .section-4-image{clear:both;width:79.9582463465%;height:365px;margin-top:-711px;margin-left:9.99152%;}
 
-.container .section-4-splash{width:79.9582463465%;height:277px;margin-top:34px;margin-left:9.99152%;}
+.container .section-4-splash{position:relative;z-index:15;width:79.9582463465%;height:277px;margin-top:34px;margin-left:9.99152%;}
 
-.container .section-5-copy{width:111.6618075801%;margin-left:-5.82635%;font-size:13px;}
+.container .section-5-copy{width:111.6618075801%;margin-left:-5.82635%;font-size:1em;}
 
 .container .section-5-header{font-size:2.154em;}
 
@@ -475,9 +501,9 @@ body{font-size:0.813em;}
 
 .nav .text{margin-top:14px;margin-right:0.94272%;font-size:0.923em;}
 
-.section-1{position:relative;clear:none;z-index:35;height:716px;}
+.section-1{position:relative;clear:none;z-index:35;height:666px;}
 
-.section-1 .container{position:relative;z-index:34;height:740px;margin-top:-717px;}
+.section-1 .container{position:relative;z-index:34;height:678px;margin-top:-717px;}
 
 .section-1 .hero-backdrop{position:relative;z-index:28;height:717px;}
 
@@ -505,7 +531,7 @@ body{font-size:0.813em;}
 
 .section-4 .section-4-copy{margin-left:-5.80487%;}
 
-.section-5{height:556px;}
+.section-5{height:556px;margin-top:24px;}
 
 .section-5 .element{position:relative;z-index:5;height:609px;}
 
@@ -517,11 +543,145 @@ body{font-size:0.813em;}
 
 .section-6 .section-5-image{width:79.9582463465%;height:237px;margin-top:24px;margin-left:9.99152%;}
 
-.container .container-3{clear:both;width:80.1670146137%;margin-top:14px;margin-right:9.81211%;}
+.container .container-3{position:relative;clear:both;z-index:14;width:80.1670146137%;height:199px;margin-top:14px;margin-right:9.81211%;}
 
 .container .container-5{width:79.9582463465%;margin-top:376px;margin-left:10.02088%;}
 
 .section-2-1{height:450px;}
 
 .section-5 .container-4{position:relative;z-index:10;height:571px;margin-top:-596px;}
+}
+
+@media(max-width: 376px) {
+.container .footer-app-store-button{position:relative;z-index:39;height:auto;margin-top:127px;margin-left:234.04255%;}
+
+.container .footer-coming-store-info{position:relative;z-index:42;margin-left:9.99003%;}
+
+.container .footer-copyright{position:relative;z-index:44;margin-left:10.0191199999%;}
+
+.container .footer-copyright-bg{position:relative;z-index:43;margin-top:-8px;}
+
+.container .footer-logo,.hero-copy .hero-logo-image,.hero-copy .image{height:auto;}
+
+.container .footer-tagline{margin-left:9.99003%;}
+
+.container .hero-copy{position:relative;z-index:33;margin-top:295px;margin-left:9.99834%;}
+
+.container .hero-splash{position:relative;z-index:29;margin-top:-548px;margin-left:7.09774%;}
+
+.container .section-4-image{width:80.0531914893%;height:300px;margin-top:-644px;margin-left:9.99834%;}
+
+.container .section-4-splash{position:relative;z-index:15;margin-left:9.99003%;}
+
+.hero-copy .hero-logo-copy{font-size:1em;}
+
+.nav{position:relative;z-index:38;}
+
+.nav .image{left:0;right:0;height:auto;margin-right:auto;margin-left:auto;}
+
+.section-1{position:relative;z-index:35;height:541px;}
+
+.section-1 .container{position:relative;z-index:34;height:592px;}
+
+.section-1 .hero-backdrop{position:relative;z-index:28;}
+
+.section-2 .copy{z-index:25;}
+
+.section-2 .header{z-index:26;}
+
+.section-2 .section-2{position:relative;}
+
+.section-2 .section-2-splash{position:relative;z-index:24;}
+
+.section-3{height:360px;}
+
+.section-3 .section-3-background{position:relative;z-index:18;margin-left:-7.89146%;}
+
+.section-3 .section-3-firefox{position:relative;z-index:20;height:auto;margin-left:29.34259%;}
+
+.section-3 .section-3-header{position:relative;z-index:22;margin-left:9.99003%;font-size:1.923em;}
+
+.section-3 .section-3-interface-image{position:relative;z-index:21;height:auto;margin-top:-1151px;margin-left:12.37118%;}
+
+.section-3 .section-3-safari{position:relative;z-index:19;height:auto;}
+
+.section-4{height:486px;}
+
+.section-5{height:530px;margin-top:0;}
+
+.section-5 .element{position:relative;z-index:5;}
+
+.container .container-3{position:relative;z-index:14;width:80.0531914893%;height:204px;margin-top:-44px;margin-right:9.9526299999%;}
+
+.container .container-5{margin-top:318px;margin-left:9.99834%;}
+
+.section-4 .container-2{height:492px;}
+
+.section-5 .container-4{position:relative;z-index:10;}
+}
+
+@media(max-width: 321px) {
+body{font-size:0.813em;}
+
+.container .footer-app-store-button{position:relative;z-index:39;height:auto;margin-left:274.1433%;}
+
+.container .footer-coming-store-info{position:relative;z-index:42;margin-left:9.98832%;}
+
+.container .footer-copyright{position:relative;z-index:44;margin-left:10.01752%;font-size:0.615em;}
+
+.container .footer-copyright-bg{position:relative;z-index:43;}
+
+.container .footer-logo,.hero-copy .hero-logo-image,.hero-copy .image{height:auto;}
+
+.container .footer-tagline{margin-left:9.98832%;}
+
+.container .hero-copy{position:relative;z-index:33;margin-top:265px;margin-left:10%;}
+
+.container .hero-splash{position:relative;z-index:29;margin-top:-518px;margin-left:7.09696%;}
+
+.container .section-4-image{margin-top:-635px;margin-left:9.99319%;}
+
+.container .section-4-splash{position:relative;z-index:15;margin-top:0;margin-left:9.99319%;}
+
+.footer{margin-top:22px;}
+
+.nav{position:relative;z-index:38;}
+
+.nav .image{left:0;right:0;height:auto;margin-right:auto;margin-left:auto;}
+
+.section-1{position:relative;z-index:35;height:496px;}
+
+.section-1 .container{position:relative;z-index:34;}
+
+.section-1 .hero-backdrop{position:relative;z-index:28;}
+
+.section-2 .copy{z-index:25;}
+
+.section-2 .header{z-index:26;}
+
+.section-2 .section-2{position:relative;}
+
+.section-2 .section-2-splash{position:relative;z-index:24;}
+
+.section-3 .section-3-background{position:relative;z-index:18;margin-left:-7.89038%;}
+
+.section-3 .section-3-firefox{position:relative;z-index:20;height:auto;margin-left:29.3419%;}
+
+.section-3 .section-3-header{position:relative;z-index:22;margin-left:9.98832%;}
+
+.section-3 .section-3-interface-image{position:relative;z-index:21;height:auto;margin-top:-1122px;margin-left:11.03637%;}
+
+.section-3 .section-3-safari{position:relative;z-index:19;height:auto;}
+
+.section-5{position:relative;z-index:11;margin-top:18px;}
+
+.section-5 .element{position:relative;z-index:5;}
+
+.section-6{position:relative;z-index:4;margin-top:-18px;}
+
+.container .container-3{position:relative;z-index:14;margin-top:-55px;margin-right:9.94451%;}
+
+.container .container-5{margin-top:300px;margin-left:9.99319%;}
+
+.section-5 .container-4{position:relative;z-index:10;}
 }
