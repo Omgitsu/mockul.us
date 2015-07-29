@@ -1,0 +1,24 @@
+
+            <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+            <channel>
+            <title>Mockulus Changelog</title>
+            <link>http://mockul.us/appcast/appcast.xml</link>
+            <description>Changelog for Mockulus - http://mockul.us</description>
+            <language></language>
+            <item>
+            <title>Version 60</title>
+            
+            <description>Some bug fixes</description>
+            
+            <pubDate>Wed, 29 Jul 2015 11:49:38 -0700</pubDate>
+            <enclosure url="http://mockul.us/downloads/Mockulus-1.0.60.app.zip"
+                      sparkle:version="60"
+                      sparkle:shortVersionString="1.0.60"
+                      length="236113580"
+                      type="application/octet-stream"
+                      sparkle:dsaSignature="MCwCFCpccFqDozAGas6QGK9zjE8FIWJmAhQq2CEuO7ekacaJixogKW9Cncr/fA=="/>
+            
+            </item>
+            </channel>
+            </rss>
+        
