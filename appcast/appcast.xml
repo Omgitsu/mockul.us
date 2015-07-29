@@ -22,9 +22,8 @@
 
 
                <enclosure url="https://s3.amazonaws.com/mockulus/deltas/1.0.60-1.0.70.delta"
-                          sparkle:version="70"
-                          sparkle:shortVersionString="1.0.60"
-                          sparkle:deltaFrom="60"
+                          sparkle:version="1.0.70"
+                          sparkle:deltaFrom="1.0.60"
                           length="72582"
                           type="application/octet-stream"
                           sparkle:dsaSignature="MC0CFQCrro3ql9xgElCrG8Bgltov1M6FGAIUPC5TtgwTXPDHudFHWDI2r1gNVos="/>
