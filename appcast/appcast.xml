@@ -6,31 +6,32 @@
             <description>Changelog for Mockulus - http://mockul.us</description>
             <language></language>
             <item>
-            <title>Version 70</title>
-
-            <description>Updated Version Info</description>
-
-            <pubDate>Wed, 29 Jul 2015 13:37:26 -0700</pubDate>
-            <enclosure url="https://s3.amazonaws.com/mockulus/Mockulus-1.0.70.app.zip"
+            <title>Mockulus version 1.0.70</title>
+            
+            <description>Some bug fixes</description>
+            
+            <pubDate>Mon, 10 Aug 2015 19:57:38 -0700</pubDate>
+            <enclosure url="http://bit.ly/1UzHVnG"
                       sparkle:version="70"
                       sparkle:shortVersionString="1.0.70"
-                      length="236111390"
+                      length="235265976"
                       type="application/octet-stream"
-                      sparkle:dsaSignature="MCwCFFuVryC7msrOrQYOCjKF1XEmR2IkAhRvUGnqpaZjQu9ktL0uf2IWVEIG3w=="/>
-
+                      sparkle:dsaSignature="MCwCFB9wIyASqyEjJCgd0RjHvzKSmf/XAhQSsmWygg498c3DiE+dF8MAcSzfEQ=="/>
+            
                 <sparkle:deltas>
-
-
+                
+                
                <enclosure url="https://s3.amazonaws.com/mockulus/deltas/1.0.60-1.0.70.delta"
                           sparkle:version="1.0.70"
                           sparkle:deltaFrom="1.0.60"
-                          length="72582"
+                          length="72525"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MC0CFQCrro3ql9xgElCrG8Bgltov1M6FGAIUPC5TtgwTXPDHudFHWDI2r1gNVos="/>
-
-
+                          sparkle:dsaSignature="MCwCFAtYh3Ygiezn/JQi0qbQHriBQcUiAhRgli/gNdsa5IySHyFsNfZErfWmig=="/>
+        
+                
                 </sparkle:deltas>
-
+            
             </item>
             </channel>
             </rss>
+        
