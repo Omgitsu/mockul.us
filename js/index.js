@@ -11,6 +11,6 @@
     action = e.data.action
     label = e.data.label
     ga('send', 'event', category, action, label);
-    window.location.href = 'http://mockul.us/downloads/mockulus.app.zip';
+    window.location.href = 'http://bit.ly/1UzHVnG';
   };
 })();
