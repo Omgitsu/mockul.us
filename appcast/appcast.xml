@@ -6,27 +6,28 @@
             <description>Changelog for Mockulus - http://mockul.us</description>
             <language></language>
             <item>
-            <title>Mockulus version 1.0.70</title>
+            <title>Mockulus version 1.0.80</title>
             
             <description>Some bug fixes</description>
             
-            <pubDate>Mon, 10 Aug 2015 19:57:38 -0700</pubDate>
-            <enclosure url="http://bit.ly/1UzHVnG"
-                      sparkle:version="70"
-                      sparkle:shortVersionString="1.0.70"
-                      length="235265976"
+            <pubDate>Tue, 25 Aug 2015 13:08:52 -0700</pubDate>
+            <enclosure url="http://bit.ly/1JwXysn"
+                      sparkle:version="80"
+                      sparkle:shortVersionString="1.0.80"
+                      length="236113618"
                       type="application/octet-stream"
-                      sparkle:dsaSignature="MCwCFB9wIyASqyEjJCgd0RjHvzKSmf/XAhQSsmWygg498c3DiE+dF8MAcSzfEQ=="/>
+                      sparkle:dsaSignature="MCwCFGE6ddE0aZUsKlyGdVihiv4HE0QkAhQCIUlKnIH9nZiwhgB5+IL04SsdGQ=="/>
             
                 <sparkle:deltas>
                 
                 
-               <enclosure url="https://s3.amazonaws.com/mockulus/deltas/1.0.60-1.0.70.delta"
-                          sparkle:version="1.0.70"
-                          sparkle:deltaFrom="1.0.60"
-                          length="72525"
+               <enclosure url="https://s3.amazonaws.com/mockulus/deltas/1.0.74-1.0.80.delta"
+                          sparkle:version="80"
+                          sparkle:deltaFrom="74"
+                          sparkle:shortVersionString="1.0.80"
+                          length="76681"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MCwCFAtYh3Ygiezn/JQi0qbQHriBQcUiAhRgli/gNdsa5IySHyFsNfZErfWmig=="/>
+                          sparkle:dsaSignature="MCwCFE4RDWc673Ekq2S/r4O1IUYy8eCbAhQ90U2qYkYUtkJ7bN9mYVT5H9CIOw=="/>
         
                 
                 </sparkle:deltas>
