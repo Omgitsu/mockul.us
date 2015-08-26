@@ -6,28 +6,38 @@
             <description>Changelog for Mockulus - http://mockul.us</description>
             <language></language>
             <item>
-            <title>Mockulus version 1.0.80</title>
+            <title>Mockulus version 1.0.83</title>
             
             <description>Some bug fixes</description>
             
-            <pubDate>Tue, 25 Aug 2015 13:08:52 -0700</pubDate>
-            <enclosure url="http://bit.ly/1JwXysn"
-                      sparkle:version="80"
-                      sparkle:shortVersionString="1.0.80"
-                      length="236113618"
+            <pubDate>Tue, 25 Aug 2015 21:13:02 -0700</pubDate>
+            <enclosure url="http://bit.ly/1V8PAtD"
+                      sparkle:version="83"
+                      sparkle:shortVersionString="1.0.83"
+                      length="235970040"
                       type="application/octet-stream"
-                      sparkle:dsaSignature="MCwCFGE6ddE0aZUsKlyGdVihiv4HE0QkAhQCIUlKnIH9nZiwhgB5+IL04SsdGQ=="/>
+                      sparkle:dsaSignature="MCwCFDAEver7KDWemNL4nLODM0udreb3AhRUp7SLQwvoUYIa2SMwcV0da8wjsA=="/>
             
                 <sparkle:deltas>
                 
                 
-               <enclosure url="https://s3.amazonaws.com/mockulus/deltas/1.0.74-1.0.80.delta"
-                          sparkle:version="80"
+               <enclosure url="https://s3.amazonaws.com/mockulus/deltas/1.0.74-1.0.83.delta"
+                          sparkle:version="83"
                           sparkle:deltaFrom="74"
-                          sparkle:shortVersionString="1.0.80"
-                          length="76681"
+                          sparkle:shortVersionString="1.0.83"
+                          length="80910"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MCwCFE4RDWc673Ekq2S/r4O1IUYy8eCbAhQ90U2qYkYUtkJ7bN9mYVT5H9CIOw=="/>
+                          sparkle:dsaSignature="MC0CFQC60wjGkWcJWmtsihLF5DobRufZkAIUZXnjPBkbDVf1h6ey1gZ8nVil9pM="/>
+        
+                
+                
+               <enclosure url="https://s3.amazonaws.com/mockulus/deltas/1.0.80-1.0.83.delta"
+                          sparkle:version="83"
+                          sparkle:deltaFrom="80"
+                          sparkle:shortVersionString="1.0.83"
+                          length="85022"
+                          type="application/octet-stream"
+                          sparkle:dsaSignature="MCwCFDzuQAi5TgPnw97xwq+6kCjkE7/VAhQBa2eIuibsHx5ewcnjjpTXD6bEaQ=="/>
         
                 
                 </sparkle:deltas>
