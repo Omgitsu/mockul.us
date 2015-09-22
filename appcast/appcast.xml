@@ -6,48 +6,58 @@
             <description>Changelog for Mockulus - http://mockul.us</description>
             <language></language>
             <item>
-            <title>Mockulus version 1.0.84</title>
+            <title>Mockulus version 1.0.85</title>
             
             <description>Some bug fixes</description>
             
-            <pubDate>Wed, 26 Aug 2015 11:54:42 -0700</pubDate>
-            <enclosure url="http://bit.ly/1Udz09A"
-                      sparkle:version="84"
-                      sparkle:shortVersionString="1.0.84"
-                      length="236108116"
+            <pubDate>Tue, 22 Sep 2015 12:58:51 -0400</pubDate>
+            <enclosure url="http://bit.ly/1FdhSiR"
+                      sparkle:version="85"
+                      sparkle:shortVersionString="1.0.85"
+                      length="236115506"
                       type="application/octet-stream"
-                      sparkle:dsaSignature="MC0CFQC5vOW1AuPsfJNYcsi2uVgYox9djAIUCMrgMsbdeGau6u5rAdGBQFJe3mU="/>
+                      sparkle:dsaSignature="MCwCFHSvHUTSfcNl+sBHtnA2aLjyHRXQAhRV7cw/dQ7NpHQrNnhBuF/F45JjNA=="/>
             
                 <sparkle:deltas>
                 
                 
-               <enclosure url="http://bit.ly/1Udz4Gr"
-                          sparkle:version="84"
+               <enclosure url="http://bit.ly/1Fdi95p"
+                          sparkle:version="85"
                           sparkle:deltaFrom="74"
-                          sparkle:shortVersionString="1.0.84"
-                          length="88960"
+                          sparkle:shortVersionString="1.0.85"
+                          length="240914"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MC4CFQCtZbQWmIDAc4YOOMNmGYRoPtiyBgIVAJQtuJxIJuqwWg7NsHJUj+Af4WM4"/>
+                          sparkle:dsaSignature="MC0CFBQ33W9V1LM8gaf5ow107OfpgJ1aAhUAkl+bn2mZF2dD6r8eBqgcbGSOlGs="/>
         
                 
                 
-               <enclosure url="http://bit.ly/1UdzcFD"
-                          sparkle:version="84"
+               <enclosure url="http://bit.ly/1Fdig0T"
+                          sparkle:version="85"
                           sparkle:deltaFrom="80"
-                          sparkle:shortVersionString="1.0.84"
-                          length="88961"
+                          sparkle:shortVersionString="1.0.85"
+                          length="240917"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MC0CFQCi13P6lwefCDB4rl2LmAUSmyZUJwIUVDQKxOk7QzZagW/STv/SyPJ4nso="/>
+                          sparkle:dsaSignature="MCwCFF+4yhQUshiDbv+IqTwr8DYo4UrXAhRGRRclj4ecw2HF9taGZXPgkyRP8A=="/>
         
                 
                 
-               <enclosure url="http://bit.ly/1UdzmwN"
-                          sparkle:version="84"
+               <enclosure url="http://bit.ly/1FdiuFk"
+                          sparkle:version="85"
                           sparkle:deltaFrom="83"
-                          sparkle:shortVersionString="1.0.84"
-                          length="85011"
+                          sparkle:shortVersionString="1.0.85"
+                          length="240806"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MC0CFQCb9W7d1p0t9VQw1yo1Ybla77x1qAIUXN98XdCJFZVH3WXOZctC0dMyH1Y="/>
+                          sparkle:dsaSignature="MCwCFE65ECFeeYqFGtSnGfMZOzB7zTDZAhRZw9LqppcDNk77yJ94p2P2v4MtIQ=="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1FdiF3n"
+                          sparkle:version="85"
+                          sparkle:deltaFrom="84"
+                          sparkle:shortVersionString="1.0.85"
+                          length="228621"
+                          type="application/octet-stream"
+                          sparkle:dsaSignature="MC0CFDbjTxQkMU5ebLuKNHtXpMjyPaXDAhUAoOl8nB98NPr3N9AFYEm32Fw0cHc="/>
         
                 
                 </sparkle:deltas>
