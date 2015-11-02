@@ -6,10 +6,11 @@
             <description>Changelog for Mockulus - http://mockul.us</description>
             <language></language>
             <item>
+
             <title>Mockulus version 1.0.124</title>
-            
+
             <description>Some bug fixes</description>
-            
+
             <pubDate>Mon, 02 Nov 2015 13:25:21 -0500</pubDate>
             <enclosure url="http://bit.ly/1NlZNAY"
                       sparkle:version="124"
@@ -17,10 +18,10 @@
                       length="237256565"
                       type="application/octet-stream"
                       sparkle:dsaSignature="MCwCFAqDtdT2Edn3KqXeer1dFeu8Cg+rAhQDETAxPa809JtEEdYQjuDga1JmtQ=="/>
-            
                 <sparkle:deltas>
-                
-                
+
+
+
                <enclosure url="http://bit.ly/1Nm10s2"
                           sparkle:version="124"
                           sparkle:deltaFrom="37"
@@ -28,9 +29,9 @@
                           length="219951501"
                           type="application/octet-stream"
                           sparkle:dsaSignature="MCwCFBfCBsJWDFvlb+anI89+9pRnZsMgAhQ37yk+OvmEoJb4TkOJkQWlrY+Ksw=="/>
-        
-                
-                
+
+
+
                <enclosure url="http://bit.ly/1Nm1A9g"
                           sparkle:version="124"
                           sparkle:deltaFrom="38"
@@ -38,9 +39,9 @@
                           length="1541843"
                           type="application/octet-stream"
                           sparkle:dsaSignature="MCwCFEmYLBOUQiWq+XU/8+TaxRYWiQ+3AhQKQUaxKPn6/Bow8zSELMyAGyGOXA=="/>
-        
-                
-                
+
+
+
                <enclosure url="http://bit.ly/1GZcX5D"
                           sparkle:version="124"
                           sparkle:deltaFrom="60"
@@ -48,9 +49,9 @@
                           length="1537419"
                           type="application/octet-stream"
                           sparkle:dsaSignature="MCwCFDUEsaXl3+aIj8TBaRLzusUPgMO0AhR8ffqS24KTqFpAEwVb7rb+FhoN6g=="/>
-        
-                
-                
+
+
+
                <enclosure url="http://bit.ly/1XK4F6d"
                           sparkle:version="124"
                           sparkle:deltaFrom="70"
@@ -58,9 +59,9 @@
                           length="1537387"
                           type="application/octet-stream"
                           sparkle:dsaSignature="MCwCFEXoH5xM29CT8ISbjNimtApUrNkfAhQKxixshGPLKM5YhJ6o/1aSRSriMQ=="/>
-        
-                
-                
+
+
+
                <enclosure url="http://bit.ly/1XK4NCF"
                           sparkle:version="124"
                           sparkle:deltaFrom="74"
@@ -68,9 +69,9 @@
                           length="1131997"
                           type="application/octet-stream"
                           sparkle:dsaSignature="MCwCFDW7tPjOQf1ErIwo6Q4P5FrkTfwIAhRyqyD1zFStJtfYQg0/iRAwxaHZng=="/>
-        
-                
-                
+
+
+
                <enclosure url="http://bit.ly/1XK4VSv"
                           sparkle:version="124"
                           sparkle:deltaFrom="80"
@@ -78,9 +79,9 @@
                           length="1131992"
                           type="application/octet-stream"
                           sparkle:dsaSignature="MC0CFFxTMWzhAoug9FVq96BwcHATvS+9AhUAuHENN2IQPdC2h+K7sdgvAJbleKA="/>
-        
-                
-                
+
+
+
                <enclosure url="http://bit.ly/1XK52NU"
                           sparkle:version="124"
                           sparkle:deltaFrom="83"
@@ -88,9 +89,9 @@
                           length="1131990"
                           type="application/octet-stream"
                           sparkle:dsaSignature="MC0CFHlP8C5L8Dw61lJpMCMOszqJOsM+AhUAgWK+qzz3eVq/hOb0QNdEq/XM4Pk="/>
-        
-                
-                
+
+
+
                <enclosure url="http://bit.ly/1XK62BD"
                           sparkle:version="124"
                           sparkle:deltaFrom="84"
@@ -98,9 +99,9 @@
                           length="1136085"
                           type="application/octet-stream"
                           sparkle:dsaSignature="MC4CFQCREs/mrsqf4LzesLGO05jpE1m0XAIVAKBMcCZmE8KBlleKTOg5LEuNMfsW"/>
-        
-                
-                
+
+
+
                <enclosure url="http://bit.ly/1Nm5PBH"
                           sparkle:version="124"
                           sparkle:deltaFrom="85"
@@ -108,9 +109,9 @@
                           length="1037751"
                           type="application/octet-stream"
                           sparkle:dsaSignature="MC0CFGh3ClVsJ4NqcUb42v5zjq9lnLpDAhUAiQ8zA3dOyRObT9ZZ5G3+HxCe6As="/>
-        
-                
-                
+
+
+
                <enclosure url="http://bit.ly/1Nm6lj2"
                           sparkle:version="124"
                           sparkle:deltaFrom="94"
@@ -118,9 +119,9 @@
                           length="247241"
                           type="application/octet-stream"
                           sparkle:dsaSignature="MCwCFF7NzhByXhOuAFKtYmbHhRsr3FKgAhQ+DlbRd86+hbZAUEYJTefMekJ2cA=="/>
-        
-                
-                
+
+
+
                <enclosure url="http://bit.ly/1XK6hN8"
                           sparkle:version="124"
                           sparkle:deltaFrom="95"
@@ -128,9 +129,9 @@
                           length="243020"
                           type="application/octet-stream"
                           sparkle:dsaSignature="MCwCFGkMWTrZQUrYNxyXV5u2Ml17wpMWAhQqp91Q0Dh6ggy71XeTjMkck7zLPw=="/>
-        
-                
-                
+
+
+
                <enclosure url="http://bit.ly/1XK6uQp"
                           sparkle:version="124"
                           sparkle:deltaFrom="96"
@@ -138,11 +139,10 @@
                           length="105713"
                           type="application/octet-stream"
                           sparkle:dsaSignature="MCwCFBwOfUZoSWaZGT8q4bgDtRwOG2CpAhR3MzlYV3ihNN1PPexAMgUNsgolyg=="/>
-        
-                
+
+
                 </sparkle:deltas>
-            
+
             </item>
             </channel>
             </rss>
-        
