@@ -3,7 +3,5 @@ development/
 *.mcw
 mockulus/
 tests/
-<<<<<<< HEAD
 downloads/
-=======
->>>>>>> 5313da420fe9550e57c421b4d7f5984ae260abca
+deltas/
