@@ -6,143 +6,163 @@
             <description>Changelog for Mockulus - http://mockul.us</description>
             <language></language>
             <item>
-
-            <title>Mockulus version 1.0.124</title>
-
+            <title>Mockulus version 1.0.135</title>
+            
             <description>Some bug fixes</description>
-
-            <pubDate>Mon, 02 Nov 2015 13:25:21 -0500</pubDate>
-            <enclosure url="http://bit.ly/1NlZNAY"
-                      sparkle:version="124"
-                      sparkle:shortVersionString="1.0.124"
-                      length="237256565"
+            
+            <pubDate>Wed, 04 Nov 2015 16:23:28 -0500</pubDate>
+            <enclosure url="http://bit.ly/1RUSQGk"
+                      sparkle:version="135"
+                      sparkle:shortVersionString="1.0.135"
+                      length="237589683"
                       type="application/octet-stream"
-                      sparkle:dsaSignature="MCwCFAqDtdT2Edn3KqXeer1dFeu8Cg+rAhQDETAxPa809JtEEdYQjuDga1JmtQ=="/>
+                      sparkle:dsaSignature="MCwCFDPMdc8SYIO0u597AZnCSoqIMUo/AhR+WyUIGdpNonmzpQd7tGP5Jgqlrw=="/>
+            
                 <sparkle:deltas>
-
-
-
-               <enclosure url="http://bit.ly/1Nm10s2"
-                          sparkle:version="124"
+                
+                
+               <enclosure url="http://bit.ly/1H9nonj"
+                          sparkle:version="135"
+                          sparkle:deltaFrom="124"
+                          sparkle:shortVersionString="1.0.135"
+                          length="118110"
+                          type="application/octet-stream"
+                          sparkle:dsaSignature="MC0CFQCeLU64BdqzyUvnrxkg312mBmb7oAIUEzVr8//+MQKd3ySdjI/MBQwnIks="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1H9nJGA"
+                          sparkle:version="135"
+                          sparkle:deltaFrom="129"
+                          sparkle:shortVersionString="1.0.135"
+                          length="72689"
+                          type="application/octet-stream"
+                          sparkle:dsaSignature="MCwCFBBxfuDH3HNcEixrSesAzKSpADZtAhQWbn9XzrEVPWJapzPE+/qqVHNRnQ=="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1H9oyzh"
+                          sparkle:version="135"
                           sparkle:deltaFrom="37"
-                          sparkle:shortVersionString="1.0.124"
-                          length="219951501"
+                          sparkle:shortVersionString="1.0.135"
+                          length="220267946"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MCwCFBfCBsJWDFvlb+anI89+9pRnZsMgAhQ37yk+OvmEoJb4TkOJkQWlrY+Ksw=="/>
-
-
-
-               <enclosure url="http://bit.ly/1Nm1A9g"
-                          sparkle:version="124"
+                          sparkle:dsaSignature="MC0CFBO5UkPq/PMpyYsNXjjMsIh6BRkuAhUAid/xdiYaf/Tc1l5gjivsTGtqD3w="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1RUVH20"
+                          sparkle:version="135"
                           sparkle:deltaFrom="38"
-                          sparkle:shortVersionString="1.0.124"
-                          length="1541843"
+                          sparkle:shortVersionString="1.0.135"
+                          length="1812176"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MCwCFEmYLBOUQiWq+XU/8+TaxRYWiQ+3AhQKQUaxKPn6/Bow8zSELMyAGyGOXA=="/>
-
-
-
-               <enclosure url="http://bit.ly/1GZcX5D"
-                          sparkle:version="124"
+                          sparkle:dsaSignature="MC0CFQCaCMPS6ZyXbe/h5JkfiwZOyXE+wAIUFTUjIRCc3kQ8a+234AMndmr1t5E="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1H9pjIx"
+                          sparkle:version="135"
                           sparkle:deltaFrom="60"
-                          sparkle:shortVersionString="1.0.124"
-                          length="1537419"
+                          sparkle:shortVersionString="1.0.135"
+                          length="1807780"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MCwCFDUEsaXl3+aIj8TBaRLzusUPgMO0AhR8ffqS24KTqFpAEwVb7rb+FhoN6g=="/>
-
-
-
-               <enclosure url="http://bit.ly/1XK4F6d"
-                          sparkle:version="124"
+                          sparkle:dsaSignature="MC0CFELbSZ1jdsuBq0Gb9hYO6xWrvOx/AhUAlOog51wZnsl54Sci0eYUv0e00yQ="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1H9pGml"
+                          sparkle:version="135"
                           sparkle:deltaFrom="70"
-                          sparkle:shortVersionString="1.0.124"
-                          length="1537387"
+                          sparkle:shortVersionString="1.0.135"
+                          length="1807796"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MCwCFEXoH5xM29CT8ISbjNimtApUrNkfAhQKxixshGPLKM5YhJ6o/1aSRSriMQ=="/>
-
-
-
-               <enclosure url="http://bit.ly/1XK4NCF"
-                          sparkle:version="124"
+                          sparkle:dsaSignature="MC0CFQCsAruVlXhAmDMq+x/wmO5xWZqhEwIUCjfiAOVx+mIZlN4z/KGiZRpF0lE="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1H9q3gZ"
+                          sparkle:version="135"
                           sparkle:deltaFrom="74"
-                          sparkle:shortVersionString="1.0.124"
-                          length="1131997"
+                          sparkle:shortVersionString="1.0.135"
+                          length="1332642"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MCwCFDW7tPjOQf1ErIwo6Q4P5FrkTfwIAhRyqyD1zFStJtfYQg0/iRAwxaHZng=="/>
-
-
-
-               <enclosure url="http://bit.ly/1XK4VSv"
-                          sparkle:version="124"
+                          sparkle:dsaSignature="MCwCFHtRS0RjiOfLjHP/N1aWXxREZmoiAhRz3R5midgFE//rv5Tn97WrqlXSfw=="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1H9qrfe"
+                          sparkle:version="135"
                           sparkle:deltaFrom="80"
-                          sparkle:shortVersionString="1.0.124"
-                          length="1131992"
+                          sparkle:shortVersionString="1.0.135"
+                          length="1332648"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MC0CFFxTMWzhAoug9FVq96BwcHATvS+9AhUAuHENN2IQPdC2h+K7sdgvAJbleKA="/>
-
-
-
-               <enclosure url="http://bit.ly/1XK52NU"
-                          sparkle:version="124"
+                          sparkle:dsaSignature="MCwCFGg54iGYleUtViiuouvZUjYlGUz8AhRaKjQ+AzIEITtJqDm8k56/rhtrAw=="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1H9qPKH"
+                          sparkle:version="135"
                           sparkle:deltaFrom="83"
-                          sparkle:shortVersionString="1.0.124"
-                          length="1131990"
+                          sparkle:shortVersionString="1.0.135"
+                          length="1332632"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MC0CFHlP8C5L8Dw61lJpMCMOszqJOsM+AhUAgWK+qzz3eVq/hOb0QNdEq/XM4Pk="/>
-
-
-
-               <enclosure url="http://bit.ly/1XK62BD"
-                          sparkle:version="124"
+                          sparkle:dsaSignature="MCwCFHK87GQQ5OE8eAmVA0JBGUOJqHmgAhRHDLVHpB1z3XOTUAjKhaXt7O0hnQ=="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1H9rf3J"
+                          sparkle:version="135"
                           sparkle:deltaFrom="84"
-                          sparkle:shortVersionString="1.0.124"
-                          length="1136085"
+                          sparkle:shortVersionString="1.0.135"
+                          length="1332640"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MC4CFQCREs/mrsqf4LzesLGO05jpE1m0XAIVAKBMcCZmE8KBlleKTOg5LEuNMfsW"/>
-
-
-
-               <enclosure url="http://bit.ly/1Nm5PBH"
-                          sparkle:version="124"
+                          sparkle:dsaSignature="MCwCFHROrW0/ZJxIs1fCLYri1M2YEwEzAhQ48zFuA+mJ45rhvvJ2jqxfPoo64w=="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1H9rI6c"
+                          sparkle:version="135"
                           sparkle:deltaFrom="85"
-                          sparkle:shortVersionString="1.0.124"
-                          length="1037751"
+                          sparkle:shortVersionString="1.0.135"
+                          length="1148323"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MC0CFGh3ClVsJ4NqcUb42v5zjq9lnLpDAhUAiQ8zA3dOyRObT9ZZ5G3+HxCe6As="/>
-
-
-
-               <enclosure url="http://bit.ly/1Nm6lj2"
-                          sparkle:version="124"
+                          sparkle:dsaSignature="MC0CFEKT5BkvLT0ZChodPcbyhUHWL3rqAhUAqcBzOAaz8B0rDXP4nBbwzZQKvNM="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1H9tvrY"
+                          sparkle:version="135"
                           sparkle:deltaFrom="94"
-                          sparkle:shortVersionString="1.0.124"
-                          length="247241"
+                          sparkle:shortVersionString="1.0.135"
+                          length="349578"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MCwCFF7NzhByXhOuAFKtYmbHhRsr3FKgAhQ+DlbRd86+hbZAUEYJTefMekJ2cA=="/>
-
-
-
-               <enclosure url="http://bit.ly/1XK6hN8"
-                          sparkle:version="124"
+                          sparkle:dsaSignature="MCwCFB2llFarRdJYqagaK90Uh6ZMsyjNAhR/VxnqlhQxmaJ12nRBW+sJnKRihw=="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1H9tVOR"
+                          sparkle:version="135"
                           sparkle:deltaFrom="95"
-                          sparkle:shortVersionString="1.0.124"
-                          length="243020"
+                          sparkle:shortVersionString="1.0.135"
+                          length="349618"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MCwCFGkMWTrZQUrYNxyXV5u2Ml17wpMWAhQqp91Q0Dh6ggy71XeTjMkck7zLPw=="/>
-
-
-
-               <enclosure url="http://bit.ly/1XK6uQp"
-                          sparkle:version="124"
+                          sparkle:dsaSignature="MC0CFEOy8/uRmVRB6E82eLWGJH6UEI8MAhUAqghaFMKSold0T/Rv+GTJKwsfmCI="/>
+        
+                
+                
+               <enclosure url="http://bit.ly/1H9uk3S"
+                          sparkle:version="135"
                           sparkle:deltaFrom="96"
-                          sparkle:shortVersionString="1.0.124"
-                          length="105713"
+                          sparkle:shortVersionString="1.0.135"
+                          length="150859"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MCwCFBwOfUZoSWaZGT8q4bgDtRwOG2CpAhR3MzlYV3ihNN1PPexAMgUNsgolyg=="/>
-
-
+                          sparkle:dsaSignature="MC0CFQCKySihGkRJu1/M2MK/DwFupDMJIgIUD8kq82UEjuuKIrrVVO8AJpXDk9Y="/>
+        
+                
                 </sparkle:deltas>
-
+            
             </item>
             </channel>
             </rss>
+        
