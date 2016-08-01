@@ -6,28 +6,28 @@
             <description>Changelog for Mockulus - http://mockul.us</description>
             <language></language>
             <item>
-            <title>Mockulus version 1.0.140</title>
+            <title>Mockulus version 1.0.151</title>
             
             <description>Some bug fixes</description>
             
-            <pubDate>Wed, 04 Nov 2015 17:40:17 -0500</pubDate>
-            <enclosure url="http://bit.ly/1iDJ8fn"
-                      sparkle:version="140"
-                      sparkle:shortVersionString="1.0.140"
-                      length="237589484"
+            <pubDate>Mon, 01 Aug 2016 14:20:25 -0700</pubDate>
+            <enclosure url="http://bit.ly/2aqZ6ci"
+                      sparkle:version="151"
+                      sparkle:shortVersionString="1.0.151"
+                      length="237572153"
                       type="application/octet-stream"
-                      sparkle:dsaSignature="MC0CFF5aJ/Z+299JfHLBO4JULXns1nfRAhUAnLY3YaYnBnLLAKoYNQwz80/lim0="/>
+                      sparkle:dsaSignature="MCwCFAuXYmJrc2HjO+T+kFap1HGhJObaAhQgCmEbHm2Fb11vW72VwkS6BbK0wQ=="/>
             
                 <sparkle:deltas>
                 
                 
-               <enclosure url="http://bit.ly/1iDJnHm"
-                          sparkle:version="140"
-                          sparkle:deltaFrom="135"
-                          sparkle:shortVersionString="1.0.140"
-                          length="1051239"
+               <enclosure url="http://bit.ly/2apX0pI"
+                          sparkle:version="151"
+                          sparkle:deltaFrom="150"
+                          sparkle:shortVersionString="1.0.151"
+                          length="85152"
                           type="application/octet-stream"
-                          sparkle:dsaSignature="MCwCFCD+TOnOJXV3p/lWTs74Q+ffGdHXAhROkPGb6aq/7ph1FhBtqtRzZeyndg=="/>
+                          sparkle:dsaSignature="MCwCFFkUSLpCasBx4ab7Zpzg6nCtpReHAhQPw8DjyvmTVCZ6C89+sMWmjSHJeg=="/>
         
                 
                 </sparkle:deltas>
